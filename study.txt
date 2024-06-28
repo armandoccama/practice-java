@@ -1,0 +1,13 @@
+Javac: El proceso comienza con el compilador de Java, llamado “Javac”. Este componente 
+traduce el código fuente escrito en Java a un formato intermedio llamado “bytecode”.
+
+Java VM (Máquina Virtual de Java): 
+Luego, el bytecode se ejecuta en la Máquina Virtual de Java (JVM). 
+La JVM interpreta o compila el bytecode en código de máquina específico para la plataforma en la que se está ejecutando. 
+La JVM también se encarga de administrar la memoria y otros recursos necesarios para la ejecución del programa.
+
+
+Recolector de Basura (GC): Dentro de la JVM, existe un componente llamado “Recolector de Basura” (GC). 
+Su función es gestionar la memoria, liberando automáticamente los objetos que ya no se utilizan para evitar fugas de memoria.
+
+Java SE (Edición Estándar de Java): Por último, la “Edición Estándar de Java” (Java SE) proporciona la funcionalidad básica para las aplicaciones Java. Incluye bibliotecas estándar y clases que los desarrolladores pueden utilizar para crear sus programas.
