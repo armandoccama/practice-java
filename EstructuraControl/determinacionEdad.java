@@ -16,7 +16,6 @@ public class determinacionEdad {
             System.out.println("Eres un adulto mayor.");
         }
 
-        // Cerrar el Scanner
         scanner.close();
     }
 }
